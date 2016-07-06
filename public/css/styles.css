@@ -1,0 +1,41 @@
+body{
+	text-align: center;
+	margin: 0;
+	font-family: 'Philosopher', sans-serif;
+}
+#carousel-example-generic{
+	text-align: center;
+	margin-left: 10%;
+	width: 80%;
+	height: 15em;
+}
+img{
+	margin-left: 40%;
+	width: 20%;
+	}
+.images{
+	display: inline;
+	margin: 1rem 1rem 1rem 1rem;
+}
+#logo{
+	font-size: 6rem;
+	font-family: 'Audiowide', cursive;
+}
+header{
+	text-align: left;
+}
+.nav{
+	background-color: black;
+}
+nav{
+	font-size: 2.5rem;
+	background-color: black;
+}
+
+.form-horizontal{
+	margin-left: 25%;
+	width: 50%;
+}
+h2{
+	text-align: center;
+}
